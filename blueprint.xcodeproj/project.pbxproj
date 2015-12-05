@@ -413,6 +413,7 @@
 				3120B3B11C137FF60075D5B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3120B3B21C137FF60075D5B8 /* Build configuration list for PBXNativeTarget "blueprintTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				3120B3B41C137FF60075D5B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
